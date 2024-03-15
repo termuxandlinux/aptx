@@ -1,0 +1,7 @@
+Package: aptx
+Version: 1.0
+Architecture: all
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Description: apt wrapper
+aptx is a special wrapper script for using .txt files. The Idea come from pip
+Depends: <bash>

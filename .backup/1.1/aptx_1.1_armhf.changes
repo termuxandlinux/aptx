@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 15 Mar 2024 20:19:00 +0200
+Source: aptx
+Binary: aptx
+Built-For-Profiles: noudeb
+Architecture: source armhf
+Version: 1.1
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Changed-By: Alexander Krefting <kakrefting@gmail.com>
+Description:
+ aptx       - Kurze Beschreibung des Pakets
+Changes:
+ aptx (1.1) unstable; urgency=low
+ .
+   * Erste öffentliche Version.
+   * Behebt das Problem mit ...
+Checksums-Sha1:
+ d96b3b60f84ca931c53b7258e00450ff7c4624f3 1193 aptx_1.1.dsc
+ f78d9e09c8f9f83c3c03c09517960593f3596a1f 65517 aptx_1.1.tar.gz
+ f8f9a76808fc9baf86eec1deccdf81306c3de56b 5938 aptx_1.1_armhf.buildinfo
+ 0d47ba0eef483a0851c515a774708f9c2a2133ca 2712 aptx_1.1_armhf.deb
+Checksums-Sha256:
+ d6b6c63a2f15468ca3977aaf9e421f26f7fd2c5dc7fbbc8de542c866eb1b36a7 1193 aptx_1.1.dsc
+ 02ce256bdf4faeb8a2b19457f33e6cf29b3e6a23f6af0e426babdf2803aa1151 65517 aptx_1.1.tar.gz
+ d5aeebfb41b05e84c9fd45cb3c38e99571bc6266891353e29225b10f6298dbbf 5938 aptx_1.1_armhf.buildinfo
+ c78c12bf4cf584319c6381963ebafd6ca2a48b5b978d6fa93aec45bfeb24b8f4 2712 aptx_1.1_armhf.deb
+Files:
+ fce762d3b5b32d473a12ec61b0725849 1193 utils optional aptx_1.1.dsc
+ 3462f8bd92a9b898f45ed70467c76602 65517 utils optional aptx_1.1.tar.gz
+ a30c6438096136ff8393ad249550477f 5938 utils optional aptx_1.1_armhf.buildinfo
+ 6b9e4b61bedf2a00871f31d4c594fb02 2712 utils optional aptx_1.1_armhf.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEQo1IUJ+YEo2ZBdhKwGAQynNLJNMFAmX03O0ACgkQwGAQynNL
+JNM6Agv/bMxhTKPL2xC1zMV/7w9M3ci2no6XgKg3YjBW6FcIM6XGuMBBlMCJRU2t
+u5214BCDnLweNk9yo7jB72XcBWIg5f2jP93Hwsh1cYmdki9hwARt+zLxYaQqvXf5
+NJcgmdzBRfioYuZBWWOUEOC3k/TaL3E+sCLmJqdls4tyVy1a8cN0Amx/GJU61+W/
+pkBdM3vxzgDL5FoVPQ3ScP7xR9oHqyhhSZYma8jbZmfUt7s66PhNuEUm3UQaDPyW
+Sf/RBeZS8FtUwCZ7pNqsgvzR91LboNPEBfsmIEciyYT/BK9d56PVJRih4pkoY63g
+pIWTV0n2lH0j44/9lfJzXoXUYPEzuZrL4CXLLvKBdEOWJ2wwdUHvjvgeJdBeAKEm
+ZWYqcnu/AzAkD0djLZtAAgvEUvdYPfpv6lfB7SqZYCdOVp2KnnB/BqcSL/cnN/3j
+vBHMb/SjqblxOM/btBvG34qsGCNpBBK4sCWPeAGXWJJoj7RiwMr1CrwIU0uUnkBc
+uF1QljZd
+=tMk3
+-----END PGP SIGNATURE-----

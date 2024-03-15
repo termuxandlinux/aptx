@@ -1,6 +1,13 @@
-aptx (1.0) unstable; urgency=low
+aptx (1.1) unstable; urgency=low
 
   * Erste öffentliche Version.
   * Behebt das Problem mit ...
 
  -- Alexander Krefting <kakrefting@gmail.com>  Fri, 15 Mar 2024 20:19:00 +0200
+
+aptx (1.1) unstable; urgency=low
+
+  * Update auf 1.1
+  * Verlagert die aptx datei, da nicht ausführbar vorher
+
+ -- Alexander Krefting <kakrefting@gmail.com>  Fri, 15 Mar 2024 23:56:34 +0200

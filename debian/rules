@@ -2,3 +2,9 @@
 
 %:
 	dh $@
+
+override_dh_auto_install:
+	dh_auto_install
+# Kopiere die Datei "aptx" in den /bin/-Ordner
+	mkdir -p $(CURDIR)/debian/aptx/bin
+	cp $(CURDIR)/aptx $(CURDIR)/debian/aptx/bin/

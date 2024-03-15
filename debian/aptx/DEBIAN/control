@@ -1,0 +1,10 @@
+Package: aptx
+Version: 1.0
+Architecture: armhf
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Installed-Size: 7
+Section: utils
+Priority: optional
+Description: Kurze Beschreibung des Pakets
+ Lange Beschreibung des Pakets, die
+ über mehrere Zeilen gehen kann.

@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 15 Mar 2024 20:19:00 +0200
+Source: aptx
+Binary: aptx
+Built-For-Profiles: noudeb
+Architecture: source armhf
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Changed-By: Alexander Krefting <kakrefting@gmail.com>
+Description:
+ aptx       - Kurze Beschreibung des Pakets
+Changes:
+ aptx (1.0) unstable; urgency=low
+ .
+   * Erste öffentliche Version.
+   * Behebt das Problem mit ...
+Checksums-Sha1:
+ 5c4d94607aea6b8eddf2b394dc67f42c1ce3e6ed 1193 aptx_1.0.dsc
+ f87422fa9add56d34db7741199930a8564fd526f 16625 aptx_1.0.tar.gz
+ a45331a4a590e1b8fb6c268c0748625e4dad87d9 5935 aptx_1.0_armhf.buildinfo
+ e257e367c1d231d33153536f97e16001294698d9 912 aptx_1.0_armhf.deb
+Checksums-Sha256:
+ 1368e4efcbedc5d27f5e3d67980804df063f2059be012a3ef87e6c297f67027d 1193 aptx_1.0.dsc
+ a5f13881ca1bd42e17afd36d424727cb869825c21844fe48f0484dfcc830bd49 16625 aptx_1.0.tar.gz
+ 4add355ce93d5af56f0657287ea29fb6e71e5f6e506fe1353ae58cbad0fb0011 5935 aptx_1.0_armhf.buildinfo
+ aaf9f789016ae9c7dc7912a394be43beb9dc72db3d231fa44da847ac4cd5c042 912 aptx_1.0_armhf.deb
+Files:
+ cc2eb13be08b392510a5e5c02060855a 1193 utils optional aptx_1.0.dsc
+ 8876c328d5d8ec92b49288c39930da17 16625 utils optional aptx_1.0.tar.gz
+ 748c6d960e076fdfe7433fec33bef9e8 5935 utils optional aptx_1.0_armhf.buildinfo
+ c5dcbbb2c938e4de41e7ce4553ed90b8 912 utils optional aptx_1.0_armhf.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEG08fhrTs0fzsVpcSQTiZY924qXEFAmX0pTIACgkQQTiZY924
+qXEspwv+MOf+crD1Rye0yP80xOyp3SO8ICc8XF4Pr6G7LiiWpndIQuMfzHS89XQw
+68w1eA3x0HSdITACNBuTpL6MLvbHrN+4pALKsxr9UehdPKus/YyUBMkLXtmO2YV4
+W3x1j+VRcRCmJVJKu1R03iSR8B9c5POd7TFv+jxqV5IqRIhnMKMrnXzyXHLVW6XE
+QmNRN5uTrul+ItPPAufZm9jwuf/aDLub+2HlSdKNUBaGRfdjtAnHeXpawp0FZcfK
+qjRubJayTw0GucUn35sarCCo4ahUJZY9K3qWhkQTiftRfdonuH5aH3PNUeC2tmau
+WYlP93y69jCRTLA/x79e7LLIdQ/gP4hjM7ycNRlkT57TNjAmJ8K816q77eAQMp3C
+44AkDMDYIF9Yt1l7swXrF5yB2don32cp41gebapvFoksn8pLQbBFnMl+bPLl6p0l
+rZz8EOPzN8fQT4A+VEOV6KyBvqNA37T87Pt1bcIa/9GxapzhN7ogn6DzM940dzEm
+ozFBlQxe
+=2rgp
+-----END PGP SIGNATURE-----

@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 15 Mar 2024 20:19:00 +0200
+Source: aptx
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.2
+Distribution: mantic
+Urgency: low
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Changed-By: Alexander Krefting <kakrefting@gmail.com>
+Changes:
+ aptx (1.2) mantic; urgency=low
+ .
+   * Initial release of aptx
+   * Fixed an issue with the commands
+Checksums-Sha1:
+ e838231f2d7e4a3bdcce64ed99558a5dc39a070c 1196 aptx_1.2.dsc
+ eea9f25c818d85d4bbd623f0589f719d2ac85864 228213 aptx_1.2.tar.gz
+ c5c34d745d56a8fcd04bd8be4e83c50652ae621b 5705 aptx_1.2_source.buildinfo
+Checksums-Sha256:
+ 51736beb582f3dc3186478140816f88c7d9fcb735cb5c7c8a3d741050fe96362 1196 aptx_1.2.dsc
+ b76702ddd4c85d01c56341d25e22bbe777965826f763a4022e0e806ca2d9c1f4 228213 aptx_1.2.tar.gz
+ 4e998d0fe6e73613af5bb36c8d0f7eaf1d1a2da61ca5ac7eb0dbce7fcf8ed45e 5705 aptx_1.2_source.buildinfo
+Files:
+ 38e70d958d44d0c4b6cf5be83ebc29a2 1196 utils optional aptx_1.2.dsc
+ 4bf35332256f3ab8b88e511e0bfcd88f 228213 utils optional aptx_1.2.tar.gz
+ ba703b035606c2634166a76aa3355b55 5705 utils optional aptx_1.2_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEQo1IUJ+YEo2ZBdhKwGAQynNLJNMFAmX1dIYACgkQwGAQynNL
+JNNqmgv+OX3o5iVOt2t0SYsc4QB+pdy0MMuyaq/LKk/QixTBVyh/47efZEyo0eWy
+DNKUlUoVqmaBKcNtSZysE1Z5zRxkxuBGzknSRhEVoAvy7eGNt/YpizDU4zeNI8X8
+2d0eZ8evpcvkLULT2flxVooSpC7fXKJoMTlbiPMhk2zTKsdhvb6zClHDy/gVaFWf
++pknGCdq6MbFxpVEN+XIsfLfwLXZDyH0lFsAz6lzdLPwicfiRHHrtDuIbEHUV+y1
+m3wi81hHVqgfrWT9o78EM4zGXVd20/DWxAAQvoAQvjHK+fZAJOoUKTkyPLHor0Po
+m3Mi6b3fFkjyWvnbd05ARmQexYVbG3jsAolQyi1SPa0s1TpvDB746jzMmhf/iECD
+9FqHjI4NLTngIB92sWs+6lElE8E65dWG2CH7LOJqcSM96uCiPeMC2PmvMGxZ5eeX
+Cfy64n1nylppyen6iMBtvoWamMfGmnDJKGn/R4cvyh5q0GMKwN2MuEcg6ag1Pefr
+N2c4xe5/
+=q6pW
+-----END PGP SIGNATURE-----
